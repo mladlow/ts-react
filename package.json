@@ -11,5 +11,14 @@
   "dependencies": {
     "react": "^15.0.2",
     "react-dom": "^15.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mladlow/ts-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mladlow/ts-react/issues"
+  },
+  "homepage": "https://github.com/mladlow/ts-react#readme"
 }
