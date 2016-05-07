@@ -1,0 +1,15 @@
+{
+  "name": "ts-react",
+  "version": "0.1.0",
+  "description": "Attempt to make typescript and react work together.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meggie Ladlow",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  }
+}
